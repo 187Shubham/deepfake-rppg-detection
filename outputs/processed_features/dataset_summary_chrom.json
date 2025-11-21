@@ -1,0 +1,20 @@
+{
+  "total_videos": 5892,
+  "real_videos": 544,
+  "fake_videos": 5348,
+  "method": "chrom",
+  "num_frames_per_video": 30,
+  "baseline_accuracy": 0.8431771894093686,
+  "real_stats": {
+    "hr_std_mean": 33.02049172711695,
+    "hr_std_std": 15.183671794727543,
+    "num_good_rois_mean": 6.948529411764706,
+    "avg_quality_mean": 0.8033300034257056
+  },
+  "fake_stats": {
+    "hr_std_mean": 33.163420770866175,
+    "hr_std_std": 14.150329085212192,
+    "num_good_rois_mean": 6.965407629020194,
+    "avg_quality_mean": 0.8055522328471572
+  }
+}
